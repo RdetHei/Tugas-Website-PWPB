@@ -1,0 +1,22 @@
+buatlah sebuah folder dengan nama
+
+img
+
+css
+
+js
+__________
+
+masukkan semua gambar di img, style di css, dan script di js
+
+___________
+
+databse yang digunakan adalah : perpustakaan
+
+tabel yang digunakan adalah : buku, dan juga anggota ; 
+
+tabel anggota memiliki isi ; Id, username dan password
+
+tabel buku memiliki isi ; Id, Nama_Buku, ISBN, Gambar, dan Genre
+
+____________
